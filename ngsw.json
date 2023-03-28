@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679987585494,
+  "timestamp": 1679987948374,
   "index": "/AEC2-Deploy-Proy1/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/AEC2-Deploy-Proy1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/AEC2-Deploy-Proy1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/AEC2-Deploy-Proy1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/AEC2-Deploy-Proy1/index.html": "22c840f701c7c92113cb8583f5c8b9f762dddfea",
+    "/AEC2-Deploy-Proy1/index.html": "ecdb51bc3517e0619393b94d3d77c10e7e9880ff",
     "/AEC2-Deploy-Proy1/main.d4c8bf1cf219f4a4.js": "cfe08c8df47ac2a1beff1b2240e6207b9bd45427",
     "/AEC2-Deploy-Proy1/manifest.webmanifest": "d48cd7c6091aaf5ced6917fd4b01aae45294844d",
     "/AEC2-Deploy-Proy1/polyfills.4709fd955acb2242.js": "e84ccb31e4635abe840faa80b63e4b3d65ce4212",
